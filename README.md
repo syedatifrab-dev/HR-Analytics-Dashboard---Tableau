@@ -50,7 +50,8 @@ Education Field Attrition: Shows the impact of educational background on employe
 
 ## 🛠 Tools Used
 
-SQL
+Excel
+
 Data Visualization: Tableau Desktop
 
 Data Source: HR Dataset (Excel/CSV)
