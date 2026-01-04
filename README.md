@@ -6,7 +6,7 @@ A data visualization project focused on Exploratory Data Analysis (EDA) of HR da
 
 ## 📊 HR Analytics Dashboard
 
-[![HR Analytics Dashboard](https://public.tableau.com/views/HRANALYTICSDASHBOARD_17649598577980/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![HR Analytics Dashboard](HR analytics dashboard1.png)](https://public.tableau.com/views/HRANALYTICSDASHBOARD_17649598577980/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
