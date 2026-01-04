@@ -6,11 +6,11 @@ A data visualization project focused on Exploratory Data Analysis (EDA) of HR da
 
 ## 📊 HR Analytics Dashboard
 
-[![HR Analytics Dashboard](hrapshot.png)](https://public.tableau.com/views/HRANALYTICSDASHBOARD_17649598577980/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![HR Analytics Dashboard](C:\Users\syed atifur rab\Downloads.png)](https://public.tableau.com/views/HRANALYTICSDASHBOARD_17649598577980/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
-Technical Implementation:
+## Technical Implementation:
 
 Calculated Fields: Used to determine Attrition Rate and categorize Age Groups.
 
@@ -19,9 +19,9 @@ Interactivity: Implemented Dashboard Actions and Global Filters to allow cross-s
 Visual Best Practices: Utilized a consistent color palette to highlight "Attrition" (High Alert) vs "Active" (Positive) metrics.
 
 
-📌 Key Features & KPIs
+## 📌 Key Features & KPIs
 
-The dashboard monitors five critical high-level metrics:
+## The dashboard monitors five critical high-level metrics:
 
 -Total Employees: Overall workforce size.
 
@@ -33,7 +33,8 @@ The dashboard monitors five critical high-level metrics:
 
 -Average Age: The mean age of the workforce.
 
-📉 Visualizations Included
+## 📉 Visualizations Included
+
 Attrition by Gender: Breakdown of turnover between male and female employees.
 
 Department-wise Attrition: Identifies which departments (R&D, Sales, HR) are experiencing the most exits.
@@ -44,7 +45,9 @@ Job Satisfaction Rating: A heat map/matrix showing how satisfaction levels corre
 
 Education Field Attrition: Shows the impact of educational background on employee retention.
 
-🛠 Tools Used
+## 🛠 Tools Used
+
+SQL
 Data Visualization: Tableau Desktop
 
 Data Source: HR Dataset (Excel/CSV)
@@ -53,7 +56,8 @@ Design: Custom KPIs and interactive filters (Department, Education, Age)
 
 
 
-💡 Key Insights
+## 💡 Key Insights
+
 Identified high-risk age groups and departments with the highest turnover rates.
 
 Correlated job satisfaction scores with specific roles to pinpoint morale issues.
@@ -61,5 +65,4 @@ Correlated job satisfaction scores with specific roles to pinpoint morale issues
 Enabled HR teams to filter data by specific demographics to create targeted retention strategies.
 
 
-Dashboard link-
 
